@@ -1,0 +1,40 @@
+{
+  "updated": "2026-11-15 15:12",
+  "rips_last_hour": 1963,
+  "rips_last_24h": 33725,
+  "buybacks_last_hour_usd": 103345,
+  "buybacks_last_24h_usd": 1530017,
+  "median_buyback_24h": 21.07,
+  "top_24h": [
+    {
+      "usd": 14079.98,
+      "wallet": "0xb4b59a25",
+      "card": "1949 Bowman #50 Jackie Robinson (PSA 5 EX)",
+      "time": "21:58"
+    },
+    {
+      "usd": 11674.8,
+      "wallet": "0xb4b59a25",
+      "card": "1940 Play Ball #1 Joe DiMaggio (PSA 7 NM)",
+      "time": "21:53"
+    },
+    {
+      "usd": 10205.3,
+      "wallet": "0x82496d48",
+      "card": "#1278908691905289179914594778161612279273383336143633024694256392777057667046",
+      "time": "04:29"
+    },
+    {
+      "usd": 8962.35,
+      "wallet": "0xb4b59a25",
+      "card": "2003 Pok\u00e9mon Skyridge #H12 Jolteon - Holo (PSA 10 GEM MINT)",
+      "time": "21:56"
+    },
+    {
+      "usd": 8652.04,
+      "wallet": "0xb4b59a25",
+      "card": "2015 Pok\u00e9mon XY Black Star Promos #XY84 Pikachu EX - Holo (PSA 10 GEM MINT)",
+      "time": "21:56"
+    }
+  ]
+}
