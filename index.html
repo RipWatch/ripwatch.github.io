@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RipWatch</title>
+<style>
+body { font-family: system-ui, -apple-system, sans-serif; background: #0f0f12; color: #e8e8e8; margin: 0; padding: 20px; }
+.container { max-width: 900px; margin: 0 auto; }
+h1 { text-align: center; font-size: 2.2rem; margin-bottom: 5px; }
+.updated { text-align: center; color: #888; margin-bottom: 30px; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 40px; }
+.stat { background: #1a1a1f; border-radius: 12px; padding: 20px; text-align: center; }
+.stat .label { font-size: 0.9rem; color: #aaa; }
+.stat .value { font-size: 1.8rem; font-weight: 600; margin-top: 5px; }
+.stat .value.green { color: #4ade80; }
+h2 { margin-top: 30px; border-bottom: 1px solid #333; padding-bottom: 8px; }
+.card { background: #1a1a1f; border-radius: 10px; padding: 15px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center; }
+.card .left { flex: 1; }
+.card .name { font-weight: 500; }
+.card .meta { font-size: 0.85rem; color: #888; margin-top: 4px; }
+.card .price { font-size: 1.3rem; font-weight: 600; color: #4ade80; margin-left: 15px; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>RipWatch</h1>
+<div class="updated" id="updated">Loading...</div>
+<div class="stats" id="stats"></div>
+<h2>Top Buybacks (24h)</h2>
+<div id="tops"></div>
+</div>
+<script>
+async function load() {
+try {
+const res = await fetch('live.json?t=' + Date.now());
+const data = await res.json();
+document.getElementById('updated').textContent = 'Updated: ' + data.updated;
+const stats = [
+{ label: 'Rips (1h)', value: data.rips_last_hour?.toLocaleString() || '—', green: true },
+{ label: 'Rips (24h)', value: data.rips_last_24h?.toLocaleString() || '—' },
+{ label: 'Buybacks (1h)', value: '$' + (data.buybacks_last_hour_usd?.toLocaleString() || '—'), green: true },
+{ label: 'Buybacks (24h)', value: '$' + (data.buybacks_last_24h_usd?.toLocaleString() || '—') },
+{ label: 'Median Buyback (24h)', value: '$' + (data.median_buyback_24h?.toFixed(2) || '—') },
+];
+document.getElementById('stats').innerHTML = stats.map(s => `
+<div class="stat">
+<div class="label">${s.label}</div>
+<div class="value ${s.green ? 'green' : ''}">${s.value}</div>
+</div>
+`).join('');
+const tops = data.top_24h || [];
+document.getElementById('tops').innerHTML = tops.length
+? tops.map(t => `
+<div class="card">
+<div class="left">
+<div class="name">${t.card || 'Unknown'}</div>
+<div class="meta">${t.time || ''}</div>
+</div>
+<div class="price">$${t.usd?.toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2}) || '—'}</div>
+</div>
+`).join('')
+: '<p style="color:#888">No top buybacks yet.</p>';
+} catch (e) {
+document.getElementById('updated').textContent = 'Failed to load live.json';
+}
+}
+load();
+setInterval(load, 30000);
+</script>
+</body>
+</html>
