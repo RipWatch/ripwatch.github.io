@@ -51,7 +51,7 @@ document.getElementById('stats').innerHTML = stats.map(s => `
 `).join('');
 const tops = data.top_24h || [];
 document.getElementById('tops').innerHTML = tops.length
-? tops.map(t => `
+? tops.filter(t => t.card && !t.card.startsWith("#")).map(t => `
 <div class="card">
 <div class="left">
 <div class="name">${t.card || 'Unknown'}</div>
