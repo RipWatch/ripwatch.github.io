@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-16 03:44",
-  "rips_last_hour": 880,
-  "rips_last_24h": 30453,
-  "buybacks_last_hour_usd": 42317,
-  "buybacks_last_24h_usd": 1473461,
+  "updated": "2026-11-16 03:49",
+  "rips_last_hour": 891,
+  "rips_last_24h": 30390,
+  "buybacks_last_hour_usd": 40494,
+  "buybacks_last_24h_usd": 1461191,
   "median_buyback_24h": 21.07,
   "top_24h": [
     {
@@ -31,10 +31,10 @@
       "time": "14:41"
     },
     {
-      "usd": 4724.25,
-      "wallet": "0x82496d48",
-      "card": "2017 Pok\u00e9mon SM Promo #141 Poncho-Wearing Eevee - Eevee Mega Campaign (PSA 10 GEM MINT)",
-      "time": "03:44"
+      "usd": 4454.27,
+      "wallet": "0xc3ac0387",
+      "card": "#24103900799194118587047488589943953566916745618560052148513892941907231476927",
+      "time": "15:07"
     }
   ]
 }
