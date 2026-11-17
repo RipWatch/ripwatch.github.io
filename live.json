@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-16 20:15",
-  "rips_last_hour": 1660,
-  "rips_last_24h": 29758,
-  "buybacks_last_hour_usd": 63398,
-  "buybacks_last_24h_usd": 1331892,
+  "updated": "2026-11-16 20:20",
+  "rips_last_hour": 1663,
+  "rips_last_24h": 29755,
+  "buybacks_last_hour_usd": 71827,
+  "buybacks_last_24h_usd": 1339591,
   "median_buyback_24h": 20.56,
   "top_24h": [
+    {
+      "usd": 6981.02,
+      "wallet": "0xae29b21b",
+      "card": "2004 Pok\u00e9mon EX Team Magma VS Team Aqua #94 Suicune EX - Holo (PSA 9 MINT)",
+      "time": "20:17"
+    },
     {
       "usd": 6573.42,
       "wallet": "0x4894ea41",
@@ -29,12 +35,6 @@
       "wallet": "0xff5caea5",
       "card": "#28128301402350785789753598460052595366289774970717154346573917225420519056675",
       "time": "13:17"
-    },
-    {
-      "usd": 4043.03,
-      "wallet": "0x7a44461f",
-      "card": "#100732867387123993748290527668806454071749057818562422997357792465454843323453",
-      "time": "18:33"
     }
   ]
 }
