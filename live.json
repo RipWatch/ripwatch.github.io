@@ -1,11 +1,23 @@
 {
-  "updated": "2026-11-17 05:17",
-  "rips_last_hour": 909,
-  "rips_last_24h": 31896,
-  "buybacks_last_hour_usd": 48405,
-  "buybacks_last_24h_usd": 1468598,
+  "updated": "2026-11-17 05:22",
+  "rips_last_hour": 915,
+  "rips_last_24h": 31909,
+  "buybacks_last_hour_usd": 110701,
+  "buybacks_last_24h_usd": 1530306,
   "median_buyback_24h": 19.8,
   "top_24h": [
+    {
+      "usd": 11983.59,
+      "wallet": "0xef7feb35",
+      "card": "2005 Pok\u00e9mon EX Unseen Forces #102 Espeon EX - Holo (PSA 9 MINT)",
+      "time": "05:18"
+    },
+    {
+      "usd": 10951.47,
+      "wallet": "0xef7feb35",
+      "card": "2003 Pok\u00e9mon Skyridge #H30 Umbreon - Holo (PSA 9 MINT)",
+      "time": "05:17"
+    },
     {
       "usd": 10179.49,
       "wallet": "0xef7feb35",
@@ -13,28 +25,16 @@
       "time": "05:16"
     },
     {
+      "usd": 10179.49,
+      "wallet": "0xef7feb35",
+      "card": "2012 Pok\u00e9mon Black & White Team Plasma Battle Gift Set #005 Darkrai - Full Art (PSA 10 GEM MINT)",
+      "time": "05:18"
+    },
+    {
       "usd": 9418.94,
       "wallet": "0xae29b21b",
       "card": "#56014271903044085200893407523182507154523693896685307107509422460711762676450",
       "time": "20:59"
-    },
-    {
-      "usd": 8018.56,
-      "wallet": "0xae29b21b",
-      "card": "#111082348505297632411535153280695121363422628218540385965760947815113890243438",
-      "time": "20:24"
-    },
-    {
-      "usd": 7150.82,
-      "wallet": "0x4894ea41",
-      "card": "#59902419985693605716556633470191294719245327308543885855354093556170529875935",
-      "time": "21:21"
-    },
-    {
-      "usd": 6981.02,
-      "wallet": "0xae29b21b",
-      "card": "2004 Pok\u00e9mon EX Team Magma VS Team Aqua #94 Suicune EX - Holo (PSA 9 MINT)",
-      "time": "20:17"
     }
   ]
 }
