@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16 20:25",
-  "rips_last_hour": 1694,
-  "rips_last_24h": 29803,
-  "buybacks_last_hour_usd": 92429,
-  "buybacks_last_24h_usd": 1361406,
-  "median_buyback_24h": 20.56,
+  "updated": "2026-11-16 20:30",
+  "rips_last_hour": 1692,
+  "rips_last_24h": 29832,
+  "buybacks_last_hour_usd": 105061,
+  "buybacks_last_24h_usd": 1372679,
+  "median_buyback_24h": 20.48,
   "top_24h": [
     {
       "usd": 8018.56,
@@ -25,16 +25,16 @@
       "time": "23:49"
     },
     {
+      "usd": 6466.34,
+      "wallet": "0xb3276981",
+      "card": "#102686040484854138133876238688676495571386758900323433596112649498440048238333",
+      "time": "20:30"
+    },
+    {
       "usd": 6429.6,
       "wallet": "0xae29b21b",
       "card": "2014 Pok\u00e9mon XY Phantom Gate #090 Gengar EX - 1st Edition Holo Full Art (PSA 10 GEM MINT)",
       "time": "20:24"
-    },
-    {
-      "usd": 5987.14,
-      "wallet": "0x7a44461f",
-      "card": "#114495567000851303906428976184351379478832681795217329966137910108304380976142",
-      "time": "13:46"
     }
   ]
 }
