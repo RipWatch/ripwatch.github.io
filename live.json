@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-17 05:12",
-  "rips_last_hour": 926,
-  "rips_last_24h": 31907,
-  "buybacks_last_hour_usd": 37398,
-  "buybacks_last_24h_usd": 1455740,
+  "updated": "2026-11-17 05:17",
+  "rips_last_hour": 909,
+  "rips_last_24h": 31896,
+  "buybacks_last_hour_usd": 48405,
+  "buybacks_last_24h_usd": 1468598,
   "median_buyback_24h": 19.8,
   "top_24h": [
+    {
+      "usd": 10179.49,
+      "wallet": "0xef7feb35",
+      "card": "2012 Pok\u00e9mon Black & White Team Plasma Battle Gift Set #005 Darkrai - Full Art (PSA 10 GEM MINT)",
+      "time": "05:16"
+    },
     {
       "usd": 9418.94,
       "wallet": "0xae29b21b",
@@ -29,12 +35,6 @@
       "wallet": "0xae29b21b",
       "card": "2004 Pok\u00e9mon EX Team Magma VS Team Aqua #94 Suicune EX - Holo (PSA 9 MINT)",
       "time": "20:17"
-    },
-    {
-      "usd": 6466.34,
-      "wallet": "0xb3276981",
-      "card": "#102686040484854138133876238688676495571386758900323433596112649498440048238333",
-      "time": "20:30"
     }
   ]
 }
