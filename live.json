@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-16 20:40",
-  "rips_last_hour": 1683,
-  "rips_last_24h": 29873,
-  "buybacks_last_hour_usd": 112698,
-  "buybacks_last_24h_usd": 1380524,
-  "median_buyback_24h": 20.48,
+  "updated": "2026-11-16 20:45",
+  "rips_last_hour": 1662,
+  "rips_last_24h": 29880,
+  "buybacks_last_hour_usd": 105578,
+  "buybacks_last_24h_usd": 1383528,
+  "median_buyback_24h": 20.56,
   "top_24h": [
     {
       "usd": 8018.56,
