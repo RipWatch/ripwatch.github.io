@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-17 20:59",
+  "updated": "2026-11-17 21:04",
   "rips_last_hour": 0,
-  "rips_last_24h": 11708,
+  "rips_last_24h": 11541,
   "buybacks_last_hour_usd": 0,
-  "buybacks_last_24h_usd": 628867,
+  "buybacks_last_24h_usd": 614832,
   "median_buyback_24h": 19.97,
   "top_24h": [
     {
@@ -32,9 +32,9 @@
     },
     {
       "usd": 9418.94,
-      "wallet": "0xae29b21b",
-      "card": "#56014271903044085200893407523182507154523693896685307107509422460711762676450",
-      "time": "20:59"
+      "wallet": "0xef7feb35",
+      "card": "2000 Pok\u00e9mon Gym Challenge #14 Rocket's Mewtwo - 1st Edition Holo (PSA 10 GEM MINT)",
+      "time": "05:19"
     }
   ]
 }
