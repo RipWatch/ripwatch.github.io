@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-23 22:38",
-  "rips_last_hour": 754,
-  "rips_last_24h": 754,
-  "buybacks_last_hour_usd": 36342,
-  "buybacks_last_24h_usd": 36342,
-  "median_buyback_24h": 24.2,
+  "updated": "2026-11-23 22:43",
+  "rips_last_hour": 960,
+  "rips_last_24h": 960,
+  "buybacks_last_hour_usd": 48429,
+  "buybacks_last_24h_usd": 48429,
+  "median_buyback_24h": 23.34,
   "top_24h": [
+    {
+      "usd": 1375.6,
+      "wallet": "0xf8025317",
+      "card": "2006 Pok\u00e9mon EX Crystal Guardians #55 Lotad (PSA 10 GEM MINT)",
+      "time": "22:40"
+    },
     {
       "usd": 757.0,
       "wallet": "0xcdd040a0",
@@ -19,22 +25,16 @@
       "time": "22:35"
     },
     {
+      "usd": 707.26,
+      "wallet": "0x0a56e8fa",
+      "card": "#57690087893457303340972266412363152479340806249240741533394105059311506034482",
+      "time": "22:40"
+    },
+    {
       "usd": 694.99,
       "wallet": "0xcdd040a0",
       "card": "2026 One Piece OP15-EB04-Adventure on Kami's Island #118 Enel - Manga Alternate Art (PSA 10 GEM MINT)",
       "time": "22:37"
-    },
-    {
-      "usd": 672.57,
-      "wallet": "0xbf2ad0a2",
-      "card": "#61875645382800000026319874749595687796761241590243904818323146803963960370496",
-      "time": "22:32"
-    },
-    {
-      "usd": 646.34,
-      "wallet": "0xbf2ad0a2",
-      "card": "#213203086024604481240104650795834194199607613184976734815172412414177472466",
-      "time": "22:32"
     }
   ]
 }
