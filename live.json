@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-24 00:17",
-  "rips_last_hour": 1541,
-  "rips_last_24h": 3499,
-  "buybacks_last_hour_usd": 64710,
-  "buybacks_last_24h_usd": 191179,
-  "median_buyback_24h": 20.31,
+  "updated": "2026-11-24 00:27",
+  "rips_last_hour": 1504,
+  "rips_last_24h": 3707,
+  "buybacks_last_hour_usd": 80470,
+  "buybacks_last_24h_usd": 213010,
+  "median_buyback_24h": 20.3,
   "top_24h": [
+    {
+      "usd": 9509.8,
+      "wallet": "0xae29b21b",
+      "card": "#9335357913692940003415541359847318606019797770704021076216576459814350013550",
+      "time": "00:27"
+    },
     {
       "usd": 6218.1,
       "wallet": "0xff5caea5",
@@ -29,12 +35,6 @@
       "wallet": "0x32e1963f",
       "card": "2000 Ultimate Victory #146 Tom Brady - Parallel (PSA 9 MINT)",
       "time": "23:28"
-    },
-    {
-      "usd": 2840.41,
-      "wallet": "0x04bdc4a6",
-      "card": "#90305814748791928090828356269687847270330559837133175741494804950296003945259",
-      "time": "23:17"
     }
   ]
 }
