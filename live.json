@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-18 00:50",
-  "rips_last_hour": 0,
-  "rips_last_24h": 5332,
-  "buybacks_last_hour_usd": 0,
-  "buybacks_last_24h_usd": 330872,
-  "median_buyback_24h": 20.47,
+  "updated": "2026-11-23 22:23",
+  "rips_last_hour": 244,
+  "rips_last_24h": 244,
+  "buybacks_last_hour_usd": 8035,
+  "buybacks_last_24h_usd": 8035,
+  "median_buyback_24h": 19.3,
   "top_24h": [
     {
-      "usd": 11983.59,
-      "wallet": "0xef7feb35",
-      "card": "2005 Pok\u00e9mon EX Unseen Forces #102 Espeon EX - Holo (PSA 9 MINT)",
-      "time": "05:18"
+      "usd": 546.85,
+      "wallet": "0x85ab9c87",
+      "card": "1999 Base Set #2/102 Blastoise - Holo (CGC 9.5 MINT+)",
+      "time": "22:18"
     },
     {
-      "usd": 10951.47,
-      "wallet": "0xef7feb35",
-      "card": "2003 Pok\u00e9mon Skyridge #H30 Umbreon - Holo (PSA 9 MINT)",
-      "time": "05:17"
+      "usd": 500.0,
+      "wallet": "0xc295c99e",
+      "card": "2025 One Piece OP11-A Fist of Divine Speed #080 Gear Two - Alternate Art (PSA 10 GEM MINT)",
+      "time": "22:15"
     },
     {
-      "usd": 10179.49,
-      "wallet": "0xef7feb35",
-      "card": "2012 Pok\u00e9mon Black & White Team Plasma Battle Gift Set #005 Darkrai - Full Art (PSA 10 GEM MINT)",
-      "time": "05:16"
+      "usd": 500.0,
+      "wallet": "0x85ab9c87",
+      "card": "#64669166772159338503071598450953579048938568806841369642038813832785135318585",
+      "time": "22:17"
     },
     {
-      "usd": 10179.49,
-      "wallet": "0xef7feb35",
-      "card": "2012 Pok\u00e9mon Black & White Team Plasma Battle Gift Set #005 Darkrai - Full Art (PSA 10 GEM MINT)",
-      "time": "05:18"
+      "usd": 500.0,
+      "wallet": "0x6acde159",
+      "card": "#137326218205627679798503313106563304435194960737781819642185372023353477378",
+      "time": "22:20"
     },
     {
-      "usd": 9418.94,
-      "wallet": "0xef7feb35",
-      "card": "2000 Pok\u00e9mon Gym Challenge #14 Rocket's Mewtwo - 1st Edition Holo (PSA 10 GEM MINT)",
-      "time": "05:19"
+      "usd": 378.84,
+      "wallet": "0x9ff4ddb5",
+      "card": "2025 Destined Rivals - DRI EN #231 Team Rocket's Mewtwo ex - Special Illustration Rare (Holo) (BGS 9.5 GEM MINT)",
+      "time": "22:21"
     }
   ]
 }
