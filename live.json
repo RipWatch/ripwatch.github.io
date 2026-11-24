@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-23 22:58",
-  "rips_last_hour": 1458,
-  "rips_last_24h": 1458,
-  "buybacks_last_hour_usd": 71982,
-  "buybacks_last_24h_usd": 71982,
+  "updated": "2026-11-23 23:03",
+  "rips_last_hour": 1589,
+  "rips_last_24h": 1589,
+  "buybacks_last_hour_usd": 77480,
+  "buybacks_last_24h_usd": 77480,
   "median_buyback_24h": 21.74,
   "top_24h": [
     {
@@ -19,6 +19,12 @@
       "time": "22:53"
     },
     {
+      "usd": 970.64,
+      "wallet": "0x04bdc4a6",
+      "card": "2018 Bowman High Tek #RA Ronald Acuna - Autograph-Gold Rainbow (PSA 10 GEM MINT)",
+      "time": "23:01"
+    },
+    {
       "usd": 895.1,
       "wallet": "0x04bdc4a6",
       "card": "#100839069709723302324143122273482495039166873404996111468019336115200247887190",
@@ -29,12 +35,6 @@
       "wallet": "0xcdd040a0",
       "card": "#106912387809983035576855401451015414196308417665270076571438331998612162579251",
       "time": "22:36"
-    },
-    {
-      "usd": 727.39,
-      "wallet": "0xcdd040a0",
-      "card": "#107505749311232156052621329206124858545738207922309503703528524877272997722761",
-      "time": "22:35"
     }
   ]
 }
