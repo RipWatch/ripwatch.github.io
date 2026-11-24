@@ -1,11 +1,29 @@
 {
-  "updated": "2026-11-23 22:33",
-  "rips_last_hour": 565,
-  "rips_last_24h": 565,
-  "buybacks_last_hour_usd": 22783,
-  "buybacks_last_24h_usd": 22783,
-  "median_buyback_24h": 22.93,
+  "updated": "2026-11-23 22:38",
+  "rips_last_hour": 754,
+  "rips_last_24h": 754,
+  "buybacks_last_hour_usd": 36342,
+  "buybacks_last_24h_usd": 36342,
+  "median_buyback_24h": 24.2,
   "top_24h": [
+    {
+      "usd": 757.0,
+      "wallet": "0xcdd040a0",
+      "card": "#106912387809983035576855401451015414196308417665270076571438331998612162579251",
+      "time": "22:36"
+    },
+    {
+      "usd": 727.39,
+      "wallet": "0xcdd040a0",
+      "card": "#107505749311232156052621329206124858545738207922309503703528524877272997722761",
+      "time": "22:35"
+    },
+    {
+      "usd": 694.99,
+      "wallet": "0xcdd040a0",
+      "card": "2026 One Piece OP15-EB04-Adventure on Kami's Island #118 Enel - Manga Alternate Art (PSA 10 GEM MINT)",
+      "time": "22:37"
+    },
     {
       "usd": 672.57,
       "wallet": "0xbf2ad0a2",
@@ -17,24 +35,6 @@
       "wallet": "0xbf2ad0a2",
       "card": "#213203086024604481240104650795834194199607613184976734815172412414177472466",
       "time": "22:32"
-    },
-    {
-      "usd": 546.85,
-      "wallet": "0x85ab9c87",
-      "card": "1999 Base Set #2/102 Blastoise - Holo (CGC 9.5 MINT+)",
-      "time": "22:18"
-    },
-    {
-      "usd": 541.44,
-      "wallet": "0x0a56e8fa",
-      "card": "#80644760756766581741558177081587339602531344512383813283854672534962813611057",
-      "time": "22:32"
-    },
-    {
-      "usd": 500.0,
-      "wallet": "0xc295c99e",
-      "card": "2025 One Piece OP11-A Fist of Divine Speed #080 Gear Two - Alternate Art (PSA 10 GEM MINT)",
-      "time": "22:15"
     }
   ]
 }
