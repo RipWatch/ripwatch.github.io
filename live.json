@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-26 11:28",
-  "rips_last_hour": 2187,
-  "rips_last_24h": 16069,
-  "big_1k": 35,
-  "big_5k": 4,
+  "updated": "2026-11-26 11:38",
+  "rips_last_hour": 2268,
+  "rips_last_24h": 16442,
+  "big_1k": 36,
+  "big_5k": 5,
   "hourly_rips": [
     0,
     0,
@@ -17,18 +17,18 @@
     0,
     0,
     0,
-    0,
-    1389,
-    1315,
-    1351,
-    1279,
-    1279,
-    1394,
-    1121,
-    1440,
-    1678,
-    1636,
-    2187
+    46,
+    1584,
+    1239,
+    1420,
+    1247,
+    1346,
+    1312,
+    1208,
+    1484,
+    1620,
+    1668,
+    2268
   ],
   "hourly_usd": [
     0,
@@ -43,21 +43,21 @@
     0,
     0,
     0,
-    0,
-    39295,
-    49727,
-    74948,
-    34985,
-    80423,
-    78440,
-    39108,
-    57245,
-    72817,
-    58875,
-    82761
+    1052,
+    45078,
+    49519,
+    76274,
+    37673,
+    82674,
+    72479,
+    44011,
+    54289,
+    72012,
+    59698,
+    92078
   ],
-  "buybacks_last_hour_usd": 82761,
-  "buybacks_last_24h_usd": 668624,
+  "buybacks_last_hour_usd": 92078,
+  "buybacks_last_24h_usd": 686836,
   "median_buyback_24h": 17.94,
   "top_24h": [
     {
@@ -81,9 +81,9 @@
       "time": "02:41"
     },
     {
-      "usd": 2976.74,
-      "card": "2019 Pok\u00e9mon Sun & Moon Team Up #161 Magikarp & Wailord GX - Holo Full Art (PSA 10 GEM MINT)",
-      "time": "05:18"
+      "usd": 5542.84,
+      "card": "1999 Pok\u00e9mon Neo Gold, Silver, to A New World... Hama-Chan's Slowking - Corocoro Comic #257 September (PSA 10 GEM MINT)",
+      "time": "11:31"
     }
   ]
 }
