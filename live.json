@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-26 08:37",
-  "rips_last_hour": 1494,
-  "rips_last_24h": 12725,
+  "updated": "2026-11-26 08:47",
+  "rips_last_hour": 1564,
+  "rips_last_24h": 12751,
   "big_1k": 32,
   "big_5k": 4,
   "hourly_rips": [
-    1794,
-    77,
+    1621,
     0,
     0,
     0,
@@ -20,19 +19,19 @@
     0,
     0,
     0,
-    14,
-    1591,
-    1247,
-    1408,
-    1240,
-    1352,
-    1309,
-    1199,
-    1494
+    0,
+    293,
+    1536,
+    1227,
+    1407,
+    1272,
+    1374,
+    1249,
+    1208,
+    1564
   ],
   "hourly_usd": [
-    74175,
-    1986,
+    64006,
     0,
     0,
     0,
@@ -46,19 +45,20 @@
     0,
     0,
     0,
-    402,
-    44771,
-    50000,
-    75800,
-    37508,
-    81737,
-    74019,
-    43071,
-    55184
+    0,
+    8533,
+    43960,
+    57023,
+    66591,
+    39248,
+    84741,
+    70103,
+    48115,
+    53213
   ],
-  "buybacks_last_hour_usd": 55184,
-  "buybacks_last_24h_usd": 538652,
-  "median_buyback_24h": 18.19,
+  "buybacks_last_hour_usd": 53213,
+  "buybacks_last_24h_usd": 535532,
+  "median_buyback_24h": 18.12,
   "top_24h": [
     {
       "usd": 11841.46,
@@ -81,9 +81,9 @@
       "time": "02:41"
     },
     {
-      "usd": 3947.33,
-      "card": "2001 Pok\u00e9mon VS #013 Bugsy's Scizor - 1st Edition Holo (PSA 10 GEM MINT)",
-      "time": "08:42"
+      "usd": 2976.74,
+      "card": "2019 Pok\u00e9mon Sun & Moon Team Up #161 Magikarp & Wailord GX - Holo Full Art (PSA 10 GEM MINT)",
+      "time": "05:18"
     }
   ]
 }
